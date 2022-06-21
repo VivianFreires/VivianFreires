@@ -1,9 +1,5 @@
 # Sobre Mim
 
-## Editando Perfil
-
-###### Teste
-
 - 👋 OI!! Meu nome é @VivianFreires
 - :+1: Meu email de contato é vivian.freires@escola.pr.gov.br
 - 👀 Eu estou interesada em aprender a programar novas linguas.
